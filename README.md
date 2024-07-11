@@ -4,6 +4,33 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Visit Now](https://redux-ecom-website.vercel.app/)
 
+
+## Deployed On: VERCEL
+
+## Home Page
+<img width="960" alt="home page" src="https://github.com/shrikant-kushwah/Redux-Ecom-website/assets/96473205/4a2901f6-0cab-4efb-87b2-2c6abe4c7299">
+
+## Latest Products page
+<img width="960" alt="Latest products" src="https://github.com/shrikant-kushwah/Redux-Ecom-website/assets/96473205/4cda3c01-eed2-447f-a253-ae1ce5b78cf9">
+
+## Add to Cart page
+<img width="960" alt="add to cart page" src="https://github.com/shrikant-kushwah/Redux-Ecom-website/assets/96473205/4edda796-5f7a-4441-835c-7b1ff7c6b84e">
+
+## Cart Page
+<img width="960" alt="cart page" src="https://github.com/shrikant-kushwah/Redux-Ecom-website/assets/96473205/a755645c-e006-4b5a-91a6-d9111de1c7bf">
+
+
+Tech Stack: JavaScript, ReactJS, Bootstrap,HTML, Vercel
+
+# Contact Us
+If you want to contact me, you can reach me through below handles.
+
+[LinkeDin](https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/)
+
+[Twitter](https://twitter.com/kushwa_shrikant)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
