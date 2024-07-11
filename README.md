@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-[Visit Now](https://redux-ecom-website.vercel.app/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and Go to the Live Link below
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Visit Now](https://redux-ecom-website.vercel.app/)
 
 ## Available Scripts
 
