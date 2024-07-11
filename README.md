@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed On: VERCEL
 
 ## Home Page
-![Uploading Home page1.png…]()
+<img width="960" alt="Home page1" src="https://github.com/shrikant-kushwah/Redux-Ecom-website/assets/96473205/6a05292b-8898-47a3-9fbd-360c2ce16d4d">
 
 
 ## Latest Products page
