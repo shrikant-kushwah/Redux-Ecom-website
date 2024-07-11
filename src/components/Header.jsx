@@ -7,7 +7,7 @@ const Header = () => {
             <div className="container my-4">
                 <div className="row">
                     <div className="col-md-8 d-flex justify-content-center flex-column">
-                        <h5 className="card-title display-3 fw-bolder mb-0">New Season Arrivals</h5>
+                        <h5 className="card-title display-3 fw-bolder mb-0">New Season Highlights</h5>
                         <p className="card-text lead fs-2">Checkout Products!</p>
                     </div>
                     <div className="col-md-4">
