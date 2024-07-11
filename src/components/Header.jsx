@@ -11,7 +11,7 @@ const Header = () => {
                         <p className="card-text lead fs-2">Checkout Products!</p>
                     </div>
                     <div className="col-md-4">
-                        <img src={bg} className="card-img img-fluid" alt="hero" />
+                        <img src={bg} className="card-img img-fluid p-4 mt-5" alt="hero" />
 
                     </div>
                 </div>
