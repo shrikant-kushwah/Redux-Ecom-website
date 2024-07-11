@@ -44,7 +44,7 @@ const Product = () => {
     const ShowProduct = () => {
         return (
             <>
-                <div className="col-md-6">
+                <div className="col-md-6 mt-5">
                     <img src={product.image} alt={product.title} height="400px"
                         width="400px" />
                 </div>
